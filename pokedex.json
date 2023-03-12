@@ -1,0 +1,30 @@
+[
+    {
+        "nom": "Pikachu",
+        "type": "Electrique",
+        "defense": 30,
+        "attaque": 40,
+        "points_vie": 100
+    },
+    {
+        "nom": "Salameche",
+        "type": "Feu",
+        "defense": 20,
+        "attaque": 50,
+        "points_vie": 64
+    },
+    {
+        "nom": "Carapuce",
+        "type": "Eau",
+        "defense": 35,
+        "attaque": 35,
+        "points_vie": 144
+    },
+    {
+        "nom": "Bulbizarre",
+        "type": "Plante",
+        "defense": 25,
+        "attaque": 45,
+        "points_vie": 90
+    }
+]
